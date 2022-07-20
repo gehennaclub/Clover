@@ -1,0 +1,6 @@
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\bin\Debug\Clover.dll
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\bin\Debug\Clover.pdb
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\obj\Debug\Clover.csprojAssemblyReference.cache
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\obj\Debug\Clover.csproj.CoreCompileInputs.cache
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\obj\Debug\Clover.dll
+C:\Users\JST_WATE\Downloads\Signée\Clover\Clover\obj\Debug\Clover.pdb
